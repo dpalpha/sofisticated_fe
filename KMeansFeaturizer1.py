@@ -1,4 +1,4 @@
-class KMeansFeaturizer:
+class KMeansFeaturizer1:
 
     def __init__(self, k=10, target_scale=0, random_state=None, n_jobs=-1, n_centroid=5):
 
